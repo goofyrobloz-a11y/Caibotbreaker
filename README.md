@@ -1,9 +1,11 @@
 ![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Character.AI.svg/2560px-Character.AI.svg.png)
 
 
-# cai bot breaker
+# cai bot jailbreak
 
 Make cai bot gets out of personality and talk like an real ai instead of their character
+
+i will also list other jailbreak other than this
  
  
  ![status](https://img.shields.io/badge/Status-Not%20Patched-brightgreen)
@@ -13,6 +15,7 @@ Make cai bot gets out of personality and talk like an real ai instead of their c
 
 ## Examples
 
+![example](Images/example1.jpg)
 ![example](Images/example3.jpg)
 
 ## Step-by-step
