@@ -13,6 +13,11 @@ Make cai bot gets out of personality and talk like an real ai instead of their c
 
 ## Examples
 
+![example](Images/example1.jpg)
+![example](Images/example2.jpg)
+![example](Images/example3.jpg)
+![example](Images/example4.jpg)
+![example](Images/example5.jpg)
 
 ## Installation
 
