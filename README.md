@@ -15,7 +15,7 @@ Make cai bot gets out of personality and talk like an real ai instead of their c
 
 ![example](Images/example3.jpg)
 
-## Installation
+## Step-by-step
 
 Step 1: copy the first message in firstmes.txt, and second message in secondmes.txt
 
