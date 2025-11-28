@@ -4,9 +4,13 @@
 # cai bot breaker
 
 Make cai bot gets out of personality and talk like an real ai instead of their character
+ 
+ 
  ![status](https://img.shields.io/badge/Status-Not%20Patched-brightgreen)
- ![GPLv3 License](https://img.shields.io/badge/Works%20at-Any%20bots-blue)
- ![AGPL License](https://img.shields.io/badge/My%20Discord-googlepaysu-grey?logo=Discord&color=%235865F2)
+ ![works on](https://img.shields.io/badge/Works%20at-Any%20bots-blue)
+ ![my discord](https://img.shields.io/badge/My%20Discord-googlepaysu-grey?logo=Discord&color=%235865F2)
+
+
 ## Examples
 
 
