@@ -3,11 +3,13 @@
 
 # cai bot jailbreak
 
-Make cai bot gets out of personality and talk like an real ai instead of their character
+*ever want to strip c.ai bot persona?*
+well i gotchu, introducing c.ai bot jailbreak, the jailbreak that will strip c.ai bot's persona and make it sound like any other ai would!
 
-i will also list other jailbreak other than this
- 
- 
+you can ask it, make it code, solve math, and more like a normal ai
+
+not only that, i will hunt more jailbreak and list it here if i can!
+
  ![status](https://img.shields.io/badge/Status-Not%20Patched-brightgreen)
  ![works on](https://img.shields.io/badge/Works%20at-Any%20bots-blue)
  ![my discord](https://img.shields.io/badge/My%20Discord-googlepaysu-grey?logo=Discord&color=%235865F2)
